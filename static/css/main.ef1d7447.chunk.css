@@ -1,0 +1,2 @@
+body{background:linear-gradient(180deg,hsla(0,0%,100%,.15) 0,rgba(0,0,0,.15)),radial-gradient(at top center,hsla(0,0%,100%,.4) 0,rgba(0,0,0,.4) 120%) #989898;background-blend-mode:multiply,multiply}.App{text-align:center}.formTodo{justify-items:center;width:300px}#title,.formItem,.formTodo{display:flex;flex-direction:column;margin:0 auto}li{display:grid;grid-template-columns:1fr 2fr 1fr;justify-items:center;color:#000;font-weight:700}.warning{color:red}ul{width:40%;margin:0 auto}
+/*# sourceMappingURL=main.ef1d7447.chunk.css.map */
